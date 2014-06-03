@@ -1,4 +1,8 @@
 arduino-camera-wifi
 ===================
 
-Code for the WiFi-connected camera using Arduino, a TTL serial camera &amp; the CC3000 WiFi chip. The article is available at: http://openhomeautomation.net/?p=944
+This is the code for the "Wireless Camera with Arduino and the CC3000 WiFi chip" article on the Open Home Automation website. The article is about taking pictures with a JPEG camera & transmitting these pictures to your computer using the CC3000 WiFi chip.
+
+You can find the article on the Open Home Automation website:
+
+http://www.openhomeautomation.net/wireless-camera/
